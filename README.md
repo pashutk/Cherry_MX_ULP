@@ -1,0 +1,90 @@
+# Cherry MX ULP (Ultra Low Profile) Switches & Custom Keyboard Builds
+
+This repository serves as an extensive resource for all things related to Cherry MX Ultra Low Profile (Cherry MX ULP) switches. It provides crucial information on custom keyboard builds using these switches, KiCad footprints for various switch configurations, datasheets, sources for keycaps, related projects, and purchase options.
+
+## Contents
+
+- [KiCad Footprints](#kicad-footprints)
+- [Datasheets](#datasheets)
+- [Keycap Sources](#keycap-sources)
+- [Projects Using ULP Switches](#projects-using-cherry-mx-ulp-switches)
+- [Where to Buy ULP Switches](#where-to-buy-cherry-mx-ulp-switches)
+
+## KiCad Footprints
+
+This repo contains KiCad footprints for:
+
+- SMD Mounted Switches
+- SMD Mounted Double-Sided
+- Through-Hole Mounted (Hand Soldering)
+- Through-Hole Mounted Double-Sided
+
+**Please note that the double-sided mounts are still in the testing phase and might be subject to change.**
+
+## Datasheets
+
+Although the datasheets we have currently are not highly detailed, they provide the essential specifications and information required for working with Cherry MX ULP switches. More comprehensive data will be added as they become available.
+
+- [Cherry MX Ultra Low Profile Click](https://github.com/pashutk/Cherry_ULP/blob/main/CHERRY_MX_ULP_Click_Datasheet.pdf)
+- [Cherry MX Ultra Low Profile Tactile](https://github.com/pashutk/Cherry_ULP/blob/main/CHERRY_MX_ULP_Tactile_Datasheet.pdf)
+
+## Keycap Sources
+
+Acquiring the right keycaps for Cherry MX ULP switches involves several potential sources:
+
+1. **Off-the-shelf Keyboards**: Keycaps can be harvested from the following keyboards:
+    - [Corsair K100 AIR WIRELESS RGB Ultra-Thin Mechanical Gaming Keyboard](https://www.corsair.com/ww/en/p/keyboards/ch-913a01u-ch/k100-air-wireless-rgb-ultra-thin-mechanical-gaming-keyboard-cherry-mx-ultra-low-profile-tactile-ch-913a01u-ch)
+    - [Cherry KW X ULP](https://www.cherryamericas.com/kw-x-ulp)
+
+2. **Dell Alienware Laptop Keyboard Module**: This module can also be used as a donor for keycaps. You can find it [here](https://www.aliexpress.com/item/1005005578673316.html?spm=a2g0o.order_detail.order_detail_item.2.2141f19c5ezQLC).
+
+3. **3D Printing**: At this moment, 3D printing of custom keycaps for Cherry MX ULP switches requires additional, more detailed datasheets directly from Cherry. Despite this, there have been successful attempts at creating 3D printed keycaps:
+    - [Mask Keyboard](https://www.reddit.com/r/ErgoMechKeyboards/comments/zpo9h6/mask200_4x6_split_keyboard_with_cherry_mxulp_keys/) by [marcoster](https://github.com/marcoster)
+    - [Cairn Mesa Keyboard](https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key) by [Cairn Devices](https://www.cairn-devices.eu/)
+
+### Removing Keycaps Without Damage
+
+To get a 1u keycap from a switch without causing too much damage, follow these steps:
+
+- Gently pry off from the bottom left side and then the bottom right side using tweezers.
+- To reduce the potential for damage, gently push the keycap from the opposite side using your fingertip.
+- The keycap should be free from one side with a click sound, and then you can take it off the switch.
+
+Non-1u keys are a bit trickier because they may use stabilizer bars and additional stabilizers, but the principle stays the same.
+
+## Projects Using Cherry MX ULP Switches
+
+For inspiration or technical insight, check out these projects that incorporate Cherry MX ULP switches in their keyboard builds, created by some innovative members of the community:
+
+1. [Mask Keyboard](https://www.reddit.com/r/ErgoMechKeyboards/comments/zpo9h6/mask200_4x6_split_keyboard_with_cherry_mxulp_keys/) by [marcoster](https://github.com/marcoster)
+2. [Cairn Mesa Keyboard](https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key) by the team at [Cairn Devices](https://www.cairn-devices.eu/)
+3. [ULPpad](https://t.me/s/pashutkkb/60) by [pashutk](https://github.com/pashutk)
+
+This list is not exhaustive, and we welcome contributions from the community. If you know of or have developed a project using Cherry MX ULP switches that is not listed here, please refer to the [Contribution](#contribution) section for information on how to share your work with the community.
+
+## Where to Buy Cherry MX ULP Switches
+
+If you're ready to start your own project, below are links to stores where you can purchase Cherry MX ULP switches:
+
+1. [Reichelt Elektronik](https://www.reichelt.de/de/en/cherry-mx-ultra-low-profile-rgb-pushbutton-module-cherry-mx6c-k3nb-p335040.html) - Germany, EU
+2. [Taobao](https://detail.1688.com/offer/681367194838.html) - Shenzhen, China
+
+Remember, availability can vary based on your location and the store's stock levels.
+
+## Contribution
+
+We're always looking for more information about Cherry MX ULP switches. If you have information to share or would like to contribute to the development of the KiCad footprints, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. This means you're free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of any materials in this project. However, you must provide appropriate attribution to the original author.
+
+For more details, please refer to the [LICENSE](LICENSE) file in this repository.
+
+## Disclaimer
+
+This is an independent project and has not been authorized, sponsored, or otherwise approved by Cherry or any other parties. We do not take any responsibility for any damages or legal issues that may arise from using the information provided in this repository. Use it at your own risk.
+
+---
+
+Remember, this is a living document. Check back often for updates and new information. We're excited to see what you build with Cherry MX ULP switches!
