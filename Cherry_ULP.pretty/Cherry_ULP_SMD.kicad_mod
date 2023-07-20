@@ -39,4 +39,9 @@
       )
     )
   )
+  (model "${CHERRY_MX_ULP_DIR}/Cherry_MX_ULP.step"
+    (offset (xyz -5.5 0 3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )

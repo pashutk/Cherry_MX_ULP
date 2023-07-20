@@ -213,4 +213,9 @@
   (pad "3" thru_hole rect (at 6.2 -5.075) (size 1.6 1.8) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp ab9a4cf4-2e9b-455f-90b4-ffe16dfad080))
   (pad "3" thru_hole rect (at 6.2 0) (size 1.6 2.6) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 66fa0752-a5e9-486f-8c59-edfda8351f2b))
   (pad "3" thru_hole rect (at 6.2 5.075) (size 1.6 1.8) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 68454ed3-b6d8-46fd-b915-f0bc5cfdbff4))
+  (model "${CHERRY_MX_ULP_DIR}/Cherry_MX_ULP.step"
+    (offset (xyz -5.5 0 3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )
