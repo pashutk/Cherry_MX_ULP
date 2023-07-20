@@ -6,13 +6,13 @@ This repository serves as an extensive resource for all things related to Cherry
 
 ## Contents
 
-- [KiCad Footprints](#kicad-footprints)
+- [KiCad Footprints](#kicad-footprints--3d-model)
 - [Datasheets](#datasheets)
 - [Keycap Sources](#keycap-sources)
 - [Projects Using ULP Switches](#projects-using-cherry-mx-ulp-switches)
 - [Where to Buy ULP Switches](#where-to-buy-cherry-mx-ulp-switches)
 
-## KiCad Footprints
+## KiCad Footprints & 3D model
 
 This repo contains KiCad footprints for:
 
@@ -22,6 +22,8 @@ This repo contains KiCad footprints for:
 - Through-Hole Mounted Double-Sided
 
 **Please note that the double-sided mounts are still in the testing phase and might be subject to change.**
+
+The repo also contains a 3D model of the switch [in a STEP format](https://github.com/pashutk/Cherry_MX_ULP/blob/main/Cherry_ULP.pretty/Cherry_MX_ULP.step). The model has limited dimensional precision and should only be used for visualization purposes.
 
 ## Datasheets
 
