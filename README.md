@@ -1,5 +1,7 @@
 # Cherry MX ULP (Ultra Low Profile) Switches & Custom Keyboard Builds
 
+![Cherry MX ULP switch 3d render](Cherry_MX_ULP.jpg)
+
 This repository serves as an extensive resource for all things related to Cherry MX Ultra Low Profile (Cherry MX ULP) switches. It provides crucial information on custom keyboard builds using these switches, KiCad footprints for various switch configurations, datasheets, sources for keycaps, related projects, and purchase options.
 
 ## Contents
