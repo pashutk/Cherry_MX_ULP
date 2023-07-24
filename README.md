@@ -32,6 +32,14 @@ Although the datasheets we have currently are not highly detailed, they provide 
 - [Cherry MX Ultra Low Profile Click](https://github.com/pashutk/Cherry_ULP/blob/main/CHERRY_MX_ULP_Click_Datasheet.pdf)
 - [Cherry MX Ultra Low Profile Tactile](https://github.com/pashutk/Cherry_ULP/blob/main/CHERRY_MX_ULP_Tactile_Datasheet.pdf)
 
+### Patents
+
+For deeper understanding, it could be beneficial to look at related patents by Cherry. Although the following patent does not directly pertain to the exact model of the Cherry MX ULP switches, the general design principles are very similar:
+
+- [Key module for a keyboard, and keyboard](https://patents.google.com/patent/US20230154700A1/en?inventor=Eduard+Ruff&sort=new)
+
+These patents can serve as great resources for technical understanding and innovation around switch designs.
+
 ## Keycap Sources
 
 Acquiring the right keycaps for Cherry MX ULP switches involves several potential sources:
