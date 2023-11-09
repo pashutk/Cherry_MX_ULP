@@ -8,7 +8,7 @@ This repository serves as an extensive resource for all things related to Cherry
 
 - [KiCad Footprints](#kicad-footprints--3d-model)
 - [Datasheets](#datasheets)
-- [Keycap Sources](#keycap-sources)
+- [Keycaps](#keycaps)
 - [Projects Using ULP Switches](#projects-using-cherry-mx-ulp-switches)
 - [Where to Buy ULP Switches](#where-to-buy-cherry-mx-ulp-switches)
 
