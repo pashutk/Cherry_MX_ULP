@@ -40,7 +40,9 @@ For deeper understanding, it could be beneficial to look at related patents by C
 
 These patents can serve as great resources for technical understanding and innovation around switch designs.
 
-## Keycap Sources
+## Keycaps
+
+### Where to source
 
 Acquiring the right keycaps for Cherry MX ULP switches involves several potential sources:
 
@@ -54,6 +56,15 @@ Acquiring the right keycaps for Cherry MX ULP switches involves several potentia
 3. **3D Printing**: At this moment, 3D printing of custom keycaps for Cherry MX ULP switches requires additional, more detailed datasheets directly from Cherry. Despite this, there have been successful attempts at creating 3D printed keycaps:
     - [Mask Keyboard](https://www.reddit.com/r/ErgoMechKeyboards/comments/zpo9h6/mask200_4x6_split_keyboard_with_cherry_mxulp_keys/) by [marcoster](https://github.com/marcoster)
     - [Cairn Mesa Keyboard](https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key) by [Cairn Devices](https://www.cairn-devices.eu/)
+
+### Dimensions and photos
+
+|          Name          |   WxHxD, mm    |       Profile       | HS, mm | HPS, mm Photo |                                                                                                       |
+|------------------------|----------------|---------------------|--------|---------------|-------------------------------------------------------------------------------------------------------|
+| Cherry KW x ULP        | 15.2x15.2x2.55 | Concave Cylindrical |   4.85 |          2.68 | <img src="./Cherry_KW_x_ULP.jpeg" alt="Cherry KW x ULP keycap" width="160px" height="160px" />        |
+| Dell Module            | 15.9x15.9x1.72 | Flat                |    4.5 |          2.54 | <img src="./Dell_Module.jpeg" alt="Dell Module keycap" width="160px" height="160px" />                |
+| Corsair K100 Air       | 16x16x2.7      | Concave Spherical   |      5 |             3 | <img src="./Corsair_K100_Air.jpeg" alt="Corsair K100 Air keycap" width="160px" height="160px" />      |
+| Cherry Early Prototype | 15x15x1.8      | Flat                |      4 |          2.12 | <img src="./Cherry_Early_Prototype.jpeg" alt="Cherry Early Prototype" width="160px" height="160px" /> |
 
 ### Removing Keycaps Without Damage
 
