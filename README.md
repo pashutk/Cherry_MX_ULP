@@ -6,13 +6,13 @@ This repository serves as an extensive resource for all things related to Cherry
 
 ## Contents
 
-- [KiCad Footprints](#kicad-footprints)
+- [KiCad Footprints](#kicad-footprints--3d-model)
 - [Datasheets](#datasheets)
 - [Keycap Sources](#keycap-sources)
 - [Projects Using ULP Switches](#projects-using-cherry-mx-ulp-switches)
 - [Where to Buy ULP Switches](#where-to-buy-cherry-mx-ulp-switches)
 
-## KiCad Footprints
+## KiCad Footprints & 3D model
 
 This repo contains KiCad footprints for:
 
@@ -23,12 +23,22 @@ This repo contains KiCad footprints for:
 
 **Please note that the double-sided mounts are still in the testing phase and might be subject to change.**
 
+The repo also contains a 3D model of the switch [in a STEP format](https://github.com/pashutk/Cherry_MX_ULP/blob/main/Cherry_ULP.pretty/Cherry_MX_ULP.step). The model has limited dimensional precision and should only be used for visualization purposes.
+
 ## Datasheets
 
 Although the datasheets we have currently are not highly detailed, they provide the essential specifications and information required for working with Cherry MX ULP switches. More comprehensive data will be added as they become available.
 
 - [Cherry MX Ultra Low Profile Click](https://github.com/pashutk/Cherry_ULP/blob/main/CHERRY_MX_ULP_Click_Datasheet.pdf)
 - [Cherry MX Ultra Low Profile Tactile](https://github.com/pashutk/Cherry_ULP/blob/main/CHERRY_MX_ULP_Tactile_Datasheet.pdf)
+
+### Patents
+
+For deeper understanding, it could be beneficial to look at related patents by Cherry. Although the following patent does not directly pertain to the exact model of the Cherry MX ULP switches, the general design principles are very similar:
+
+- [Key module for a keyboard, and keyboard](https://patents.google.com/patent/US20230154700A1/en?inventor=Eduard+Ruff&sort=new)
+
+These patents can serve as great resources for technical understanding and innovation around switch designs.
 
 ## Keycap Sources
 
