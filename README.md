@@ -61,10 +61,10 @@ Acquiring the right keycaps for Cherry MX ULP switches involves several potentia
 
 |          Name          |   WxHxD, mm    |       Profile       | HS, mm | HPS, mm | S, mm |                                                 Photo                                                 |
 |------------------------|----------------|---------------------|--------|---------|-------|-------------------------------------------------------------------------------------------------------|
-| Cherry KW x ULP        | 15.2x15.2x2.55 | Concave Cylindrical |   4.85 |    2.68 |   3.9 | <img src="./Cherry_KW_x_ULP.jpeg" alt="Cherry KW x ULP keycap" width="160px" height="160px" />        |
-| Dell Module            | 15.9x15.9x1.72 | Flat                |    4.5 |    2.54 |     3 | <img src="./Dell_Module.jpeg" alt="Dell Module keycap" width="160px" height="160px" />                |
-| Corsair K100 Air       | 16x16x2.7      | Concave Spherical   |      5 |       3 |     3 | <img src="./Corsair_K100_Air.jpeg" alt="Corsair K100 Air keycap" width="160px" height="160px" />      |
-| Cherry Early Prototype | 15x15x1.8      | Flat                |      4 |    2.12 |     - | <img src="./Cherry_Early_Prototype.jpeg" alt="Cherry Early Prototype" width="160px" height="160px" /> |
+| Cherry KW x ULP        | 15.2x15.2x2.55 | Concave Cylindrical |   4.85 |    2.68 |   3.9 | <img src="./Cherry_KW_x_ULP.jpeg" alt="Cherry KW x ULP keycap" width="160px" />        |
+| Dell Module            | 15.9x15.9x1.72 | Flat                |    4.5 |    2.54 |     3 | <img src="./Dell_Module.jpeg" alt="Dell Module keycap" width="160px" />                |
+| Corsair K100 Air       | 16x16x2.7      | Concave Spherical   |      5 |       3 |     3 | <img src="./Corsair_K100_Air.jpeg" alt="Corsair K100 Air keycap" width="160px" />      |
+| Cherry Early Prototype | 15x15x1.8      | Flat                |      4 |    2.12 |     - | <img src="./Cherry_Early_Prototype.jpeg" alt="Cherry Early Prototype" width="160px" /> |
 
 - HS – height of a keycap with a switch
 - HPS – height of a keycap with a pressed switch
