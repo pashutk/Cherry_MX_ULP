@@ -87,7 +87,7 @@ For inspiration or technical insight, check out these projects that incorporate 
 1. [Mask Keyboard](https://www.reddit.com/r/ErgoMechKeyboards/comments/zpo9h6/mask200_4x6_split_keyboard_with_cherry_mxulp_keys/) by [marcoster](https://github.com/marcoster)
 2. [Cairn Mesa Keyboard](https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key) by the team at [Cairn Devices](https://www.cairn-devices.eu/)
 3. [ULPpad](https://t.me/s/pashutkkb/60) by [pashutk](https://github.com/pashutk)
-4. Interesting take on [handwiring using point pins](https://www.reddit.com/r/ErgoMechKeyboards/comments/18qr1xp/cherry_ulp_prototyping/) by [Nahuel Greco](https://github.com/nahuel)
+4. Interesting take on [handwiring using point pins](https://www.reddit.com/r/ErgoMechKeyboards/comments/18qr1xp/cherry_ulp_prototyping/) by [Magnus Ascathon](https://www.reddit.com/user/Magnus_Ascathon/)
 
 This list is not exhaustive, and we welcome contributions from the community. If you know of or have developed a project using Cherry MX ULP switches that is not listed here, please refer to the [Contribution](#contribution) section for information on how to share your work with the community.
 
