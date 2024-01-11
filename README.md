@@ -92,7 +92,7 @@ For inspiration or technical insight, check out these projects that incorporate 
 
 ### Custom Components and Techniques
 1. Interesting take on [handwiring using point pins](https://www.reddit.com/r/ErgoMechKeyboards/comments/18qr1xp/cherry_ulp_prototyping/) by [Magnus Ascathon](https://www.reddit.com/user/Magnus_Ascathon/)
-2. Single key PCBs. [Amoeba Cherry ULP](https://github.com/jonboh/amoeba-cherry-ulp) by [jonboh](https://github.com/jonboh)
+2. Single key PCBs [Amoeba Cherry ULP](https://github.com/jonboh/amoeba-cherry-ulp) by [jonboh](https://github.com/jonboh)
 
 This list is not exhaustive, and we welcome contributions from the community. If you know of or have developed a project using Cherry MX ULP switches that is not listed here, please refer to the [Contribution](#contribution) section for information on how to share your work with the community.
 
