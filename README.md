@@ -80,19 +80,19 @@ To get a 1u keycap from a switch without causing too much damage, follow these s
 
 Non-1u keys are a bit trickier because they may use stabilizer bars and additional stabilizers, but the principle stays the same.
 
-## PCBs
-Single key PCBs:
-1. [Amoeba Cherry ULP](https://github.com/jonboh/amoeba-cherry-ulp) by [jonboh](https://github.com/jonboh)
-
 ## Projects Using Cherry MX ULP Switches
 
 For inspiration or technical insight, check out these projects that incorporate Cherry MX ULP switches in their keyboard builds, created by some innovative members of the community:
 
+### Keyboard Builds
 1. [Mask Keyboard](https://www.reddit.com/r/ErgoMechKeyboards/comments/zpo9h6/mask200_4x6_split_keyboard_with_cherry_mxulp_keys/) by [marcoster](https://github.com/marcoster)
 2. [Cairn Mesa Keyboard](https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key) by the team at [Cairn Devices](https://www.cairn-devices.eu/)
 3. [ULPpad](https://t.me/s/pashutkkb/60) by [pashutk](https://github.com/pashutk)
 4. [ULP-Dactyl](https://github.com/jonboh/ulp-dactyl) by [jonboh](https://github.com/jonboh)
-5. Interesting take on [handwiring using point pins](https://www.reddit.com/r/ErgoMechKeyboards/comments/18qr1xp/cherry_ulp_prototyping/) by [Magnus Ascathon](https://www.reddit.com/user/Magnus_Ascathon/)
+
+### Custom Components and Techniques
+1. Interesting take on [handwiring using point pins](https://www.reddit.com/r/ErgoMechKeyboards/comments/18qr1xp/cherry_ulp_prototyping/) by [Magnus Ascathon](https://www.reddit.com/user/Magnus_Ascathon/)
+2. Single key PCBs. [Amoeba Cherry ULP](https://github.com/jonboh/amoeba-cherry-ulp) by [jonboh](https://github.com/jonboh)
 
 This list is not exhaustive, and we welcome contributions from the community. If you know of or have developed a project using Cherry MX ULP switches that is not listed here, please refer to the [Contribution](#contribution) section for information on how to share your work with the community.
 
