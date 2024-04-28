@@ -50,6 +50,7 @@ Acquiring the right keycaps for Cherry MX ULP switches involves several potentia
     - [Corsair K100 AIR WIRELESS RGB Ultra-Thin Mechanical Gaming Keyboard](https://www.corsair.com/ww/en/p/keyboards/ch-913a01u-ch/k100-air-wireless-rgb-ultra-thin-mechanical-gaming-keyboard-cherry-mx-ultra-low-profile-tactile-ch-913a01u-ch)
     - [Cherry KW X ULP](https://www.cherryamericas.com/kw-x-ulp)
     - [Mistel Air One](http://mistelkeyboard.com/products/9a36520f591f4f8b8e1253abf6885b51)
+    - [KeyPulse Elite](https://www.kickstarter.com/projects/1658898886/keypulse-elite-slim-mechanical-keyboards/description)
 
 2. **Dell Alienware Laptop Keyboard Module**: This module can also be used as a donor for keycaps. You can find it [here](https://www.aliexpress.com/item/1005005578673316.html?spm=a2g0o.order_detail.order_detail_item.2.2141f19c5ezQLC).
 
