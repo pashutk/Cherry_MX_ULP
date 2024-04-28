@@ -66,6 +66,7 @@ Acquiring the right keycaps for Cherry MX ULP switches involves several potentia
 | Dell Module            | 15.9x15.9x1.72 | Flat                |    4.5 |    2.54 |     3 | <img src="./Dell_Module.jpeg" alt="Dell Module keycap" width="160px" />                |
 | Corsair K100 Air       | 16x16x2.7      | Concave Spherical   |      5 |       3 |     3 | <img src="./Corsair_K100_Air.jpeg" alt="Corsair K100 Air keycap" width="160px" />      |
 | Cherry Early Prototype | 15x15x1.8      | Flat                |      4 |    2.12 |     - | <img src="./Cherry_Early_Prototype.jpeg" alt="Cherry Early Prototype" width="160px" /> |
+| Mistel Air One         | 16.1x16.2.25   | Flat                |    4.4 |     2.5 |   2.8 | <img src="./Mistel_Air_One.jpeg" alt="Mistel Air One" width="160px" />                      |
 
 - HS – height of a keycap with a switch
 - HPS – height of a keycap with a pressed switch
