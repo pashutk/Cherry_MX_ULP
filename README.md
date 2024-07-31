@@ -56,6 +56,7 @@ Acquiring the right keycaps for Cherry MX ULP switches involves several potentia
 
 3. **3D Printing**: At this moment, 3D printing of custom keycaps for Cherry MX ULP switches requires additional, more detailed datasheets directly from Cherry. Despite this, there have been successful attempts at creating 3D printed keycaps:
     - [Mask Keyboard](https://www.reddit.com/r/ErgoMechKeyboards/comments/zpo9h6/mask200_4x6_split_keyboard_with_cherry_mxulp_keys/) by [marcoster](https://github.com/marcoster)
+    - [Several keycap designs](https://www.thingiverse.com/thing:6058656) by [Alescito](https://www.thingiverse.com/alescito/designs)
     - [Cairn Mesa Keyboard](https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key) by [Cairn Devices](https://www.cairn-devices.eu/)
 
 ### Dimensions and photos
