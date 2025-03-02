@@ -11,6 +11,7 @@ This repository serves as an extensive resource for all things related to Cherry
 - [Keycaps](#keycaps)
 - [Projects Using ULP Switches](#projects-using-cherry-mx-ulp-switches)
 - [Where to Buy ULP Switches](#where-to-buy-cherry-mx-ulp-switches)
+- [Switch service video tutorial](#tutorial-for-removing-a-keycap-and-repairing-the-switch)
 
 ## KiCad Footprints & 3D model
 
@@ -109,6 +110,10 @@ If you're ready to start your own project, below are links to stores where you c
 2. [Taobao](https://detail.1688.com/offer/681367194838.html) - Shenzhen, China
 
 Remember, availability can vary based on your location and the store's stock levels.
+
+## Tutorial for removing a keycap and repairing the switch
+
+[Cherry kw x ulp service](https://youtube.com/shorts/9C7go1fNCK4?si=T0FwHGd_BfaLEpGE) - Youtube shorts
 
 ## Contribution
 
